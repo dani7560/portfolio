@@ -30,7 +30,7 @@ const Footer = () => {
 
       {/* Footer Text */}
       <p className="text-center text-gray-400 text-sm md:text-base tracking-wide font-light">
-        © 2024 <span className="font-medium text-white">Daniel D.</span> <span className="text-orange-400 border-l-black">All rights reserved.</span>
+        © 2024 <span className="font-medium text-white">Daniel D.</span> <span className="text-orange-400 border-l-black font-normal">All rights reserved.</span>
       </p>
 
     </div>
