@@ -73,15 +73,15 @@ const Hero = () => {
                         
 
                         <div className="flex gap-6 flex-row text-4xl md:text-6xl text-purple-400 z-20">
-                            <motion.a whileHover={{ scale: 1.2 }} href="#">
+                            <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/dani7560">
                                 <AiOutlineGithub />
                             </motion.a>
 
-                            <motion.a whileHover={{ scale: 1.2 }} href="#">
+                            <motion.a whileHover={{ scale: 1.2 }} href="https://www.linkedin.com/in/daniel-desisa-feyisa-66285a287/">
                                 <AiOutlineLinkedin />
                             </motion.a>
 
-                            <motion.a whileHover={{ scale: 1.2 }} href="#">
+                            <motion.a whileHover={{ scale: 1.2 }} href="https://www.instagram.com/danielabu75/">
                                 <AiOutlineInstagram />
                             </motion.a>
                         </div>
